@@ -25,6 +25,11 @@ Practiced applying RAII, destructors, and inherience
 * **Tech Stack:** C++
 * **Learnings:** RAII, destructors, inherience
 
+## 🔭 I’m currently working on Break Through Tech AI Fall AI Studio Project
+
+**Coming Soon**
+
+
 ## 🛠 Tech Stack: 
 * **Languages:**  Python, C++, Assembly
 * **Data Science:** Pandas, NumPy, scikit-learn, TensorFlow, Matplotlib
