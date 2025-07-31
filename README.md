@@ -1,11 +1,12 @@
 # Hi! I'm Wen 👋
-## 🎓 Junior at California State University, California, studying Computer Science**
+## 🎓 Junior at California State University, California, studying Computer Science
 I'm passionate about Machine Learning and Artificial Intelligence, and I'm eager to continue learning and growing in this exciting field. Most of my experience so far comes from school projects, but I'm actively working on building more personal projects to deepen my understanding.
 
 Currently, I'm a Break Through Tech AI Fellow, where I learn about machine learning and build models through hands-on experience. I'm looking to leverage and expand my skills by contributing to meaningful projects and learning from industry professionals.
 
 ## 👩‍💻 Projects:
 A few projects I've worked on:
+
 **1. Book Review - ML Model**
 Developed a book review model to predict whether the review is positve or negative.
 * **Tech Stack:** Python, Pandas, scikit-learn, TensorFlow, Matplotlib, Keras
