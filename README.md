@@ -8,16 +8,19 @@ Currently, I'm a Break Through Tech AI Fellow, where I learn about machine learn
 A few projects I've worked on:
 
 **1. Book Review - ML Model**
+
 Developed a book review model to predict whether the review is positve or negative.
 * **Tech Stack:** Python, Pandas, scikit-learn, TensorFlow, Matplotlib, Keras
 * **Learnings:** Uses neural networks to train the data
 
 **2. Leftover Food Tracker**
+
 Developed a program to track users’ daily leftover and collected user inputs including date, meal, food name, quantity in ounces, leftover reasons, cost, and disposal method to generate reports detailing various leftover reasons based on the user inputs
 * **Tech Stack:** C++
 * **Learnings:** Object-oriented programming
 
 **3. CPSC121 - Lab 12**
+
 Practiced applying RAII, destructors, and inherience
 * **Tech Stack:** C++
 * **Learnings:** RAII, destructors, inherience
