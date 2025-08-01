@@ -1,34 +1,35 @@
 # Hi! I'm Wen 👋
-## 🎓 Junior at California State University, California, studying Computer Science
-I'm passionate about Machine Learning and Artificial Intelligence, and I'm eager to continue learning and growing in this exciting field. Most of my experience so far comes from school projects, but I'm actively working on building more personal projects to deepen my understanding.
+## 🎓 Third-year student at California State University, Fullerton, studying Computer Science
+I'm passionate about Machine Learning and Artificial Intelligence, and I'm eager to continue learning and growing in this exciting field. Most of my experience so far comes from school projects, but I'm actively working on building more personal projects to deepen my understanding. 
 
-Currently, I'm a Break Through Tech AI Fellow, where I learn about machine learning and build models through hands-on experience. I'm looking to leverage and expand my skills by contributing to meaningful projects and learning from industry professionals.
+Currently, I'm a Break Through Tech AI Fellow, where I learn about machine learning and build models through hands-on experience. I'm looking to contribute to meaningful work, learn from industry professionals, and expand my impact in the AI space.
 
 ## 👩‍💻 Projects:
-A few projects I've worked on:
 
 **1. Book Review - ML Model**
 
 I built a sentiment analysis model to classify book reviews as either positive or negative, using the review text as the main feature. This binary classification problem helps determine the overall tone of customer feedback. The model can add value for companies by identifying which books are well-received, enabling better recommendation systems. For example, books with positive reviews can be promoted to more users, while readers who leave favorable feedback can be recommended similar titles or other works by the same author. This approach supports personalized marketing, improves user engagement, and provides insights into customer preferences.
 
 * **Tech Stack:** Python, Pandas, scikit-learn, TensorFlow, Matplotlib, Keras
-* **Learnings:** Uses neural networks to train the data
+* **Learnings:** Built and trained a neural network for sentiment classification
 
 **2. Leftover Food Tracker**
 
-Developed a program to track users’ daily leftover and collected user inputs including date, meal, food name, quantity in ounces, leftover reasons, cost, and disposal method to generate reports detailing various leftover reasons based on the user inputs.
+This project was developed as part of CPSC 121L to apply key programming and design principles learned throughout the course. The goal was to build a console-based application that allows users to efficiently track their food leftovers, generate summary reports, and ultimately reduce waste. In this project, I transitioned from a manual leftover tracking system to an automated solution. The original method required users to type in each leftover manually and analyze data themselves. This application streamlines that process by allowing users to enter leftover data and automatically generating reports.
+
 * **Tech Stack:** C++
-* **Learnings:** Object-oriented programming
+* **Learnings:** Applied object-oriented programming principles to manage data and logic
+* **Concepts Used:** OOP, Standard Library Containers, Functions, Loops, Conditional Logic
 
 **3. CPSC121 - Lab 12**
 
-Practiced applying RAII, destructors, and inherience
+Implemented exercises to practice advanced C++ concepts including RAII (Resource Acquisition Is Initialization), destructors, and inheritance.
 * **Tech Stack:** C++
-* **Learnings:** RAII, destructors, inherience
+* **Learnings:**  Practiced memory management and object-oriented design patterns
 
-## 🔭 I’m currently working on Break Through Tech AI Fall AI Studio Project
-
-**Coming Soon**
+## 🔭 Currently Working On:
+**Break Through Tech AI – Fall AI Studio Project**
+Details coming soon...
 
 
 ## 🛠 Tech Stack: 
