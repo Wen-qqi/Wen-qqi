@@ -5,8 +5,7 @@ I'm passionate about Machine Learning and Artificial Intelligence, and I'm eager
 Currently, I'm a Break Through Tech AI Fellow, where I learn about machine learning and build models through hands-on experience. I'm looking to contribute to meaningful work, learn from industry professionals, and expand my impact in the AI space.
 
 * 🎓 Third-year student at California State University, Fullerton, studying Computer Science
-* 💻 Interests: Machine Learning, AI, Gaming
-* 💡 Currently learning: Machine Learning, 
+* 💻 Interests: Machine Learning, AI, Gaming, Software Development
 * 📫 Reach me: https://www.linkedin.com/in/wen-fan-646034312/
 
 ## 👩‍💻 Projects:
@@ -69,4 +68,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 💡 Currently learning: 
 -->
