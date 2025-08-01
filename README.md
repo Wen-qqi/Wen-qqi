@@ -9,13 +9,14 @@ A few projects I've worked on:
 
 **1. Book Review - ML Model**
 
-Developed a book review model to predict whether the review is positve or negative.
+I built a sentiment analysis model to classify book reviews as either positive or negative, using the review text as the main feature. This binary classification problem helps determine the overall tone of customer feedback. The model can add value for companies by identifying which books are well-received, enabling better recommendation systems. For example, books with positive reviews can be promoted to more users, while readers who leave favorable feedback can be recommended similar titles or other works by the same author. This approach supports personalized marketing, improves user engagement, and provides insights into customer preferences.
+
 * **Tech Stack:** Python, Pandas, scikit-learn, TensorFlow, Matplotlib, Keras
 * **Learnings:** Uses neural networks to train the data
 
 **2. Leftover Food Tracker**
 
-Developed a program to track users’ daily leftover and collected user inputs including date, meal, food name, quantity in ounces, leftover reasons, cost, and disposal method to generate reports detailing various leftover reasons based on the user inputs
+Developed a program to track users’ daily leftover and collected user inputs including date, meal, food name, quantity in ounces, leftover reasons, cost, and disposal method to generate reports detailing various leftover reasons based on the user inputs.
 * **Tech Stack:** C++
 * **Learnings:** Object-oriented programming
 
@@ -39,7 +40,9 @@ Practiced applying RAII, destructors, and inherience
 * **Email:** wqfan05@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/wen-fan-646034312/
 
-## 📊 GitHub Stats: Coming soon!
+## 📊 GitHub Stats:
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Wen-qqi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+![Metrics](https://metrics.lecoq.io/Wen-qqi?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 ## ✨ Fun Fact:
 I love to build legos and mini structures and I have a collection of over 50 legos. 
