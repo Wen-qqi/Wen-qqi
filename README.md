@@ -1,8 +1,13 @@
 # Hi! I'm Wen 👋
-## 🎓 Third-year student at California State University, Fullerton, studying Computer Science
+
 I'm passionate about Machine Learning and Artificial Intelligence, and I'm eager to continue learning and growing in this exciting field. Most of my experience so far comes from school projects, but I'm actively working on building more personal projects to deepen my understanding. 
 
 Currently, I'm a Break Through Tech AI Fellow, where I learn about machine learning and build models through hands-on experience. I'm looking to contribute to meaningful work, learn from industry professionals, and expand my impact in the AI space.
+
+* 🎓 Third-year student at California State University, Fullerton, studying Computer Science
+* 💻 Interests: Machine Learning, AI, Gaming
+* 💡 Currently learning: Machine Learning, 
+* 📫 Reach me: https://www.linkedin.com/in/wen-fan-646034312/
 
 ## 👩‍💻 Projects:
 
@@ -29,10 +34,11 @@ Implemented exercises to practice advanced C++ concepts including RAII (Resource
 
 ## 🔭 Currently Working On:
 **Break Through Tech AI – Fall AI Studio Project**
+
 Details coming soon...
 
 
-## 🛠 Tech Stack: 
+## 🛠 Technical Skills: 
 * **Languages:**  Python, C++, Assembly
 * **Data Science:** Pandas, NumPy, scikit-learn, TensorFlow, Matplotlib
 * **Tools:** Jupyter Notebooks, Git, Github
