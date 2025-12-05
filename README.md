@@ -54,11 +54,12 @@ Details coming soon...
 ## 💻 Github Top Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wen-qqi&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-## ✨ Fun Fact:
-I love to build legos and mini structures and I have a collection of over 50 legos. 
-
 <!--
 **Wen-qqi/Wen-qqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+## ✨ Fun Fact:
+I love to build legos and mini structures and I have a collection of over 50 legos. 
 
 Here are some ideas to get you started:
 
