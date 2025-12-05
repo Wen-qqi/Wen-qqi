@@ -25,11 +25,13 @@ This project was developed as part of CPSC 121L to apply key programming and des
 * **Learnings:** Applied object-oriented programming principles to manage data and logic
 * **Concepts Used:** OOP, Standard Library Containers, Functions, Loops, Conditional Logic
 
+<!--
 **3. CPSC121 - Lab 12**
 
 Implemented exercises to practice advanced C++ concepts including RAII (Resource Acquisition Is Initialization), destructors, and inheritance.
 * **Tech Stack:** C++
 * **Learnings:**  Practiced memory management and object-oriented design patterns
+-->
 
 ## 🔭 Currently Working On:
 **Break Through Tech AI – Fall AI Studio Project**
