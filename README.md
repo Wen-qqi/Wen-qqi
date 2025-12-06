@@ -25,6 +25,12 @@ This project was developed as part of CPSC 121L to apply key programming and des
 * **Learnings:** Applied object-oriented programming principles to manage data and logic
 * **Concepts Used:** OOP, Standard Library Containers, Functions, Loops, Conditional Logic
 
+**3. getRocks**
+
+GetRocks is a collectible and crafting game where players can run their own rock shop. Purchase loot boxes to obtain a wide variety of rocks and materials, each with distinct rarity and value. Manage your rocks, sell your rocks, craft jewelry and reinvest in new loot boxes to grow your collection.
+
+* **Tech Stacks:** GDScript, Godot 4.4
+
 <!--
 **3. CPSC121 - Lab 12**
 
