@@ -34,9 +34,12 @@ Implemented exercises to practice advanced C++ concepts including RAII (Resource
 -->
 
 ## 🔭 Currently Working On:
-**Break Through Tech AI – Fall AI Studio Project**
+**Break Through Tech AI – Fall AI Studio Project with Meta**
 
-Details coming soon...
+Buiding a language model that detects demographic biases in NLP datasets, contributing to fairness and transparency in AI
+
+* **Tech Stack:** Python, Hugging Face, BERT  
+* **Learnings:** Exploring and preprocessing datasets, Finetuning a langauge model to identify demographic biases, Building evaluation tools and metrics for assessing bias in model output
 
 
 ## 🛠 Technical Skills: 
